@@ -1,0 +1,5 @@
+{
+  "cmd": ["C:/Program Files/LOVE/love.exe", " --console", "${project_path:${folder}}"],
+  "shell": true,
+  "selector": "source.lua"
+}

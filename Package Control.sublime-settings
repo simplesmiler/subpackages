@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"Better CoffeeScript",
+		"C++11",
+		"DocBlockr",
+		"Emmet",
+		"Grunt",
+		"Gulp",
+		"JSHint Gutter",
+		"OpenGL Shading Language (GLSL)",
+		"SublimeREPL"
+	]
+}
