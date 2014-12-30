@@ -1,15 +1,20 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Base16 Color Schemes",
-		"Better CoffeeScript",
 		"C++11",
-		"DocBlockr",
 		"Emmet",
-		"Grunt",
-		"Gulp",
-		"JSHint Gutter",
+		"Markdown Extended",
 		"OpenGL Shading Language (GLSL)",
-		"SublimeREPL"
+		"Package Control",
+		"Whitespace"
 	]
 }
