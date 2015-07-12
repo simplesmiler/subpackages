@@ -7,10 +7,11 @@
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
 	"font_face": "Consolas",
-	"font_size": 14,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"C++",
+		"CSS",
 		"Vintage"
 	],
 	"rulers":
