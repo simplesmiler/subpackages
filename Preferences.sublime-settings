@@ -4,7 +4,7 @@
 	"auto_close_tags": false,
 	"color_scheme": "Packages/Base16 Color Schemes/base16-tomorrow.dark.tmTheme",
 	"default_line_ending": "unix",
-  "tab_completion": true,
+  "tab_completion": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
 	"font_face": "Consolas",
