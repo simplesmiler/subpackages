@@ -4,7 +4,6 @@
 	"auto_close_tags": false,
 	"color_scheme": "Packages/Base16 Color Schemes/base16-tomorrow.dark.tmTheme",
 	"default_line_ending": "unix",
-  "tab_completion": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
 	"font_face": "Consolas",
@@ -12,8 +11,8 @@
 	"ignored_packages":
 	[
 		"C++",
-		"CSS",
-		"Vintage"
+		"Vintage",
+		"CSS"
 	],
 	"rulers":
 	[
@@ -22,6 +21,7 @@
 	],
 	"scroll_speed": 0,
 	"shift_tab_unindent": true,
+	"tab_completion": false,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
