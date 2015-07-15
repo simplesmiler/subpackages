@@ -11,8 +11,8 @@
 	"ignored_packages":
 	[
 		"C++",
-		"Vintage",
 		"CSS",
+		"Vintage",
 		"JavaScript"
 	],
 	"rulers":
