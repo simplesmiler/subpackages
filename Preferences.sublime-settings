@@ -8,6 +8,12 @@
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules",
+		"bower_components"
+	],
 	"font_face": "Consolas",
 	"font_size": 12,
 	"ignored_packages":
