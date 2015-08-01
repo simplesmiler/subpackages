@@ -16,7 +16,12 @@
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
 		"PHP-Twig",
+		"Pretty JSON",
 		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-htmlhint",
 		"Whitespace"
 	]
 }
