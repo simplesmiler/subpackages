@@ -12,7 +12,8 @@
 	[
 		".git",
 		"node_modules",
-		"bower_components"
+		"bower_components",
+		"tmp"
 	],
 	"font_face": "Consolas",
 	"font_size": 12,

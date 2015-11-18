@@ -1,9 +1,11 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"Base16 Color Schemes",
 		"C++11",
 		"CSS3",
@@ -21,7 +23,6 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-contrib-htmlhint",
 		"Whitespace"
 	]
 }
