@@ -8,7 +8,6 @@
 		"Babel",
 		"Base16 Color Schemes",
 		"C++11",
-		"CSS3",
 		"EditorConfig",
 		"Emmet",
 		"Jade",
@@ -23,6 +22,7 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint",
+		"Syntax Highlighting for PostCSS",
 		"Whitespace"
 	]
 }
