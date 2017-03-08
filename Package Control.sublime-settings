@@ -23,6 +23,7 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint",
 		"Syntax Highlighting for PostCSS",
+		"Vue Syntax Highlight",
 		"Whitespace"
 	]
 }
